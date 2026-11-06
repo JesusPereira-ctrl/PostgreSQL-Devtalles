@@ -1,5 +1,5 @@
 <div align="center">
-<img width="150" height="150" alt="Postgresql_elephant svg" src="https://gist.github.com/user-attachments/assets/991f037d-250e-45e1-abd1-fbc4ac6be412" />
+<img width="150" height="150" alt="Postgresql_elephant svg" src="./assets/postgresql.svg" />
 </div>
 
 # SQL from Scratch: Your Practical Guide with PostgreSQL
